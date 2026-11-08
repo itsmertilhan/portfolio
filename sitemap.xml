@@ -21,7 +21,7 @@
   <url>
     <loc>https://mertilhan.dev/blogs</loc>
     <lastmod>2026-11-08</lastmod>
-    <changefreq>monthly</changefreq>
+    <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
@@ -137,5 +137,29 @@
     <lastmod>2026-11-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://mertilhan.dev/blogs/42-kocaeli-akran-ogrenmesi-ve-sistem-programlama</loc>
+    <lastmod>2026-11-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://mertilhan.dev/blogs/c-ile-sifirdan-ray-tracer-minirt</loc>
+    <lastmod>2026-11-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://mertilhan.dev/blogs/cpp98-non-blocking-http-server-webserv</loc>
+    <lastmod>2026-11-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://mertilhan.dev/blogs/mediscan-ai-goruntu-isleme-ve-llm</loc>
+    <lastmod>2026-11-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
   </url>
 </urlset>
